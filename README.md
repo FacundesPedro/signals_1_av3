@@ -37,7 +37,7 @@ $$ y(t) = Laplace^-1 ( y(s) ) $$
 
 Temos então que y(t) será soma de todas as transformadas
 
-$$ y(t) = { (-4t) + (5/2 * e^+t/2) + (5/2 * e-t/2) $$ 
+$$ y(t) = { (-4t) + (5/2 * e^t/2) + (5/2 * e-t/2) } $$ 
 
  Aplicando na entrada uma função conhecida como o degrau 
  
