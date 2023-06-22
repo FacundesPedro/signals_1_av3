@@ -45,9 +45,8 @@ $$ y(t) = { (-4t) + (5/2 * e^t/2) + (5/2 * e-t/2) } $$
 
  Temos então que
  
- $$ y(t) = -4t *1 + (5/2 * e^+t/2)*1 + (5/2 * e^-t/2)*1 $$ *Degrau*
+ $$ y(t) = -4t *1 + (5/2 * e^+t/2)*1 + (5/2 * e^-t/2)*1 $$
+ 
+ *Degrau*
 
 $$ h = {  y \over x } $$
-$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
-When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
-$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
