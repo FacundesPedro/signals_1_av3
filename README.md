@@ -31,7 +31,7 @@ $$ y(t) = Laplace^-1 ( y(s) ) $$
 
  Aplicamos algumas transformadas já conhecidas 
  
- $$ Laplace^-1( 1/2 ) = t $$
+ $$ Laplace^-1( 1/s ) = t $$
  
  $$ Laplace^-1 de { (1 \over s-a) = e^at} $$
 
