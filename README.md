@@ -33,7 +33,7 @@ $$ y(t) = Laplace^-1 ( y(s) ) $$
  
  $$ Laplace^-1( 1/2 ) = t $$
  
- $$ Laplace^-1 (1 \over s-a) = e^at $$
+ $$ Laplace^-1 de { (1 \over s-a) = e^at} $$
 
 Temos então que y(t) será soma de todas as transformadas
 
