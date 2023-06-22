@@ -31,9 +31,11 @@ $$ y(t) = Laplace^-1 ( y(s) ) $$
 
  Aplicamos algumas transformadas já conhecidas 
  
+ ### Laplace^-1
+ 
  $$ Laplace^-1( 1/s ) = t $$
 
- Laplace^-1
+ ### Laplace^-1
  
  $$ e^at = { 1 \over s-a } $$
 
