@@ -2,10 +2,15 @@
 Para encontrar uma função diferencial que represente o sistema, antes precisamos isolar a saída y(s) e efetuar a transformada inversa para encontrar seu valor no tempo;
 
 Sendo a
+
 $$ h = {  y \over x } $$ 
+
 em s, podemos afirmar que 
+
 $$ y = { H * x } $$
+
 assim, 
+
 $$ y(t) = Laplace^-1 ( y(s) ) $$ 
 
  Tendo a função de transfêrencia descrita como $$ H(s) = {s^2 + 1 \over s^3 - 1/4 * s} $$ 
