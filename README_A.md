@@ -1,1 +1,15 @@
-![System](https://[lh3.googleusercontent.com/u9CLmdUPzR9greoY_7Anm-shUzLt2Je2IqZwTH6Ux_qsrxKE4Xz5eKwAlcYTHywyuSx-eZ3rx25kHK5al1eMqOAqJXgCG50gnKe5lT96XpjoSKnqyD66qzDsGm6frm1wBXjcXJVDtiCa6ERNKltHtTBlQw=s2048)
+# Letra A
+Para facilitar colocamos variáveis nas realimentações e analisamos o sistema
+
+## Realimentação 1
+
+$$ e1(s) = { x(s)*s^-1 + 1/4 * y(s) } $$
+
+## Realimentação 2
+
+$$ e2(s) = { e1(s)*s^-1 + x(s) } $$
+
+## Saída
+
+$$ y(s) = { e2(s)*s^-1 } $$ 
+
