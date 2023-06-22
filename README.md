@@ -33,7 +33,7 @@ $$ y(t) = Laplace^-1 ( y(s) ) $$
  
  ### Laplace^-1
  
- $$ Laplace^-1( 1/s ) = t $$
+ $$  1/s  = t $$
 
  ### Laplace^-1
  
