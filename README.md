@@ -1,6 +1,6 @@
 # Letra B
 1. Para encontrar uma função diferencial que represente o sistema, antes precisamos isolar a saída y(s) e efetuar a transformada inversa para encontrar seu valor no tempo;
-
+$$ h = {  y \over x } $$
 2. Sendo a $$ h = {  y \over x } $$ em s, podemos afirmar que $$ y = { H * x } $$;
 
 
