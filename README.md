@@ -19,7 +19,7 @@ $$ y(t) = Laplace^-1 ( y(s) ) $$
 
  Achamos as raízes (0, +1/2, -1/2) do denominador para fatorá-lo, e facilitar sua transformada (transformada da soma é a soma das transformadas) e remodelamos o saída para 
  
- $$ y(s) = A/s + B/(s+1/2) + C/(s-1/2) $$
+ $$ y(s) = { A/s + B/(s+1/2) + C/(s-1/2) } $$
 
  Aplicando cada uns dos limites de cada polo (raiz) achamos que
  
@@ -33,7 +33,7 @@ $$ y(t) = Laplace^-1 ( y(s) ) $$
  
  $$ Laplace^-1( 1/2 ) = t $$
  
- $$ Laplace^-1 ( 1 \over s - a ) = e^at $$
+ $$ Laplace^-1 (1 \over s-a) = e^at $$
 
 Temos então que y(t) será soma de todas as transformadas
 
