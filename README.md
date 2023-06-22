@@ -32,8 +32,10 @@ $$ y(t) = Laplace^-1 ( y(s) ) $$
  Aplicamos algumas transformadas já conhecidas 
  
  $$ Laplace^-1( 1/s ) = t $$
+
+ Laplace^-1
  
- $$ Laplace^-1 de { (1 \over s-a) = e^at} $$
+ $$  { (1 \over s-a) = e^at} $$
 
 Temos então que y(t) será soma de todas as transformadas
 
