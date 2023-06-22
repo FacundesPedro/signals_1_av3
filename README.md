@@ -1,4 +1,4 @@
--> Letra B
+# Letra B
 Para encontrar uma função diferencial que represente o sistema, antes precisamos isolar a saída y(s) e efetuar a transformada inversa para encontrar seu valor no tempo;
 
 Sendo a
