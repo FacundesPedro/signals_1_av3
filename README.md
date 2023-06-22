@@ -14,7 +14,7 @@ assim,
 $$ y(t) = Laplace^-1 ( y(s) ) $$ 
 
  Tendo a função de transfêrencia descrita como 
- $$ H(s) = {s^2 + 1 \over s^3 - 1/4 * s} $$ 
+ $$ H(s) = {s^2 + 1 \over s^3 - 1/4*s} $$ 
 
  Achamos as raízes (0, +1/2, -1/2) do denominador para fatorá-lo, e facilitar sua transformada (transformada da soma é a soma das transformadas) e remodelamos o saída para 
  $$ y(s) = A/s + B/(s+1/2) + C/(s-1/2) $$
