@@ -15,11 +15,15 @@ $$ y(s) = { e2(s)*s^-1 } $$
 
 Aplicamos e1(s) em e2(s) para remover as variáveis que não precisamos
 
+
 $$ e2(s) = { x(s)*s^-2 + 1/4*y(s)*s^-1 + x(s) } $$
 
-E o aplicamos na saída y(s)
+
+E o aplicamos na saída y(s) 
+
 
 $$ y(s) = { x(s)*s^-3 + 1/4*y(s)*s^-2 + x(s)* s^-1 } $$
+
 
 Isolamos x(s) e y(s) e obtemos nossa função de transfêrencia H(s)
 ```js
