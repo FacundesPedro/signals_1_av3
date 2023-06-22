@@ -4,7 +4,7 @@ Para encontrar uma função diferencial que represente o sistema, antes precisam
 Sendo a
 $$ h = {  y \over x } $$ 
 em s, podemos afirmar que 
-$$ y = { H * x } $$;
+$$ y = { H * x } $$
 assim, 
 $$ y(t) = Laplace^-1 ( y(s) ) $$ 
 
